@@ -1,4 +1,4 @@
-# AnthroScore_ITA
+# AnthroTerm_ITA
 
 Dataset related to the paper **"Terminologization of Anthropomorphic Metaphors in the Italian Discourse around AI"** (Rossella Resi, Journal of Digital Terminology and Lexicography — JDTL, 2026).
 
